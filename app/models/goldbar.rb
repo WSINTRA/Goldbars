@@ -1,0 +1,2 @@
+class Goldbar < ApplicationRecord
+end
